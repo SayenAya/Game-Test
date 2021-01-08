@@ -1,1 +1,1 @@
-# Game-Test
+RPG game made with HTML, CSS and JavaScript. Inspired by "How to Train Your Dragon". You live in Berk and you must pet the Night Pury in case there to be peace between the village and the Dragons' land. You can pet it after you've collected enough pet experience and bought enough items for this.
